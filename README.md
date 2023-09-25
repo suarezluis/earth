@@ -1,7 +1,15 @@
 # Earth
 
-![image](https://github.com/suarezluis/earth/assets/20325995/8855cf35-cd97-4b32-9972-bf30f5e871b7)
+Latest pictures from earth taken by the [DSCOVR](https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory) satellite.
 
+### About
+
+This project was created to learn React and to experiment with the [https://epic.gsfc.nasa.gov](https://epic.gsfc.nasa.gov) API.
+
+The idea came from
+[https://makezine.com/article/technology/raspberry-pi/put-a-little-earth-on-your-desktop-with-raspberry-pi-and-a-round-display/](https://here).
+
+![image](https://github.com/suarezluis/earth/assets/20325995/8855cf35-cd97-4b32-9972-bf30f5e871b7)
 
 ### Live Demo
 
