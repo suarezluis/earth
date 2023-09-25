@@ -14,6 +14,8 @@ The https://epic.gsfc.nasa.gov api also contains enhanced images. To view these 
 
 [https://suarezluis.github.io/earth/#enhanced](https://suarezluis.github.io/earth/#enhanced)
 
+![image](https://github.com/suarezluis/earth/assets/20325995/df8989cb-b47a-4921-8203-2c2cd3336a12)
+
 ### About
 
 This project was created to learn React and to experiment with the [https://epic.gsfc.nasa.gov](https://epic.gsfc.nasa.gov) API.
